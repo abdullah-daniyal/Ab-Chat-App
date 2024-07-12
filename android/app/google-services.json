@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5683487624",
+    "project_id": "a-talk-ecb52",
+    "storage_bucket": "a-talk-ecb52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5683487624:android:48e718772623de58c5d03d",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5683487624-c7daffa0jrjm0bcslv5brrp1lcjg5v8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "71823059f190123c8ddb881474ab11d574bf8d5e"
+          }
+        },
+        {
+          "client_id": "5683487624-r4rljt7ruu5ti20vbjjo4jjid2r9vp5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0XpAM-3bmUwmJnecN6_a7_IByu-jyio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5683487624-r4rljt7ruu5ti20vbjjo4jjid2r9vp5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
